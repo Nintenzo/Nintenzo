@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm Mohamed Ibrahim, a passionate fullstack developer from Egypt.<br><br>
+Welcome to my GitHub profile! I'm Mohamed Ibrahim, a passionate backend developer from Egypt.<br><br>
 ![](https://komarev.com/ghpvc/?username=Nintenzo&color=blue&style=for-the-badge)<br>
 
 
